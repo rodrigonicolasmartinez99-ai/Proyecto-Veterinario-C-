@@ -32,10 +32,18 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="ArchivoPersonas.cpp" />
+		<Unit filename="ArchivoPersonas.h" />
 		<Unit filename="Fecha.cpp">
-			<Option target="&lt;{~None~}&gt;" />
+			<Option target="Debug" />
 		</Unit>
 		<Unit filename="Fecha.h" />
+		<Unit filename="FuncionesGlobales.cpp" />
+		<Unit filename="FuncionesGlobales.h" />
+		<Unit filename="Hora.cpp" />
+		<Unit filename="Hora.h" />
+		<Unit filename="Persona.cpp" />
+		<Unit filename="Persona.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
